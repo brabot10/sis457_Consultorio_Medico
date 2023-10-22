@@ -1,0 +1,9 @@
+D:\Bryan 2023\Informatica\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico\Sis457ConsultorioMedico\CpConsultorioMedico\bin\Debug\CpConsultorioMedico.exe.config
+D:\Bryan 2023\Informatica\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico\Sis457ConsultorioMedico\CpConsultorioMedico\bin\Debug\CpConsultorioMedico.exe
+D:\Bryan 2023\Informatica\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico\Sis457ConsultorioMedico\CpConsultorioMedico\bin\Debug\CpConsultorioMedico.pdb
+D:\Bryan 2023\Informatica\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico\Sis457ConsultorioMedico\CpConsultorioMedico\obj\Debug\CpConsultorioMedico.csproj.AssemblyReference.cache
+D:\Bryan 2023\Informatica\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico\Sis457ConsultorioMedico\CpConsultorioMedico\obj\Debug\CpConsultorioMedico.Properties.Resources.resources
+D:\Bryan 2023\Informatica\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico\Sis457ConsultorioMedico\CpConsultorioMedico\obj\Debug\CpConsultorioMedico.csproj.GenerateResource.cache
+D:\Bryan 2023\Informatica\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico\Sis457ConsultorioMedico\CpConsultorioMedico\obj\Debug\CpConsultorioMedico.csproj.CoreCompileInputs.cache
+D:\Bryan 2023\Informatica\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico\Sis457ConsultorioMedico\CpConsultorioMedico\obj\Debug\CpConsultorioMedico.exe
+D:\Bryan 2023\Informatica\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico\Sis457ConsultorioMedico\CpConsultorioMedico\obj\Debug\CpConsultorioMedico.pdb
