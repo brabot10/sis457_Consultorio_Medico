@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ClnConsultorioMedico
 {
-    internal class PersonalCln
+    public class PersonalCln
     {
         public static int insertar(Personal personal)
         {

@@ -25,3 +25,24 @@ C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico
 C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\obj\Debug\CpConsultorioMedico.csproj.CopyComplete
 C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\obj\Debug\CpConsultorioMedico.exe
 C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\obj\Debug\CpConsultorioMedico.pdb
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\bin\Debug\CpConsultorioMedico.exe.config
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\bin\Debug\CpConsultorioMedico.exe
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\bin\Debug\CpConsultorioMedico.pdb
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\bin\Debug\CadLabConsultorioMedico.dll
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\bin\Debug\ClnConsultorioMedico.dll
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\bin\Debug\EntityFramework.dll
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\bin\Debug\CadLabConsultorioMedico.pdb
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\bin\Debug\CadLabConsultorioMedico.dll.config
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\bin\Debug\ClnConsultorioMedico.pdb
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\bin\Debug\ClnConsultorioMedico.dll.config
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\bin\Debug\EntityFramework.xml
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\obj\Debug\CpConsultorioMedico.csproj.AssemblyReference.cache
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\obj\Debug\CpConsultorioMedico.FrmCita.resources
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\obj\Debug\CpConsultorioMedico.Properties.Resources.resources
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\obj\Debug\CpConsultorioMedico.csproj.GenerateResource.cache
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\obj\Debug\CpConsultorioMedico.csproj.CoreCompileInputs.cache
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\obj\Debug\CpConsultorioMedico.csproj.CopyComplete
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\obj\Debug\CpConsultorioMedico.exe
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\obj\Debug\CpConsultorioMedico.pdb
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CpConsultorioMedico\bin\Debug\EntityFramework.SqlServer.xml

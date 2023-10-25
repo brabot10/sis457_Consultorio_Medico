@@ -10,3 +10,15 @@ C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CadLabConsultorioMe
 C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CadLabConsultorioMedico\obj\Debug\CadLabConsultorioMedico.csproj.CopyComplete
 C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CadLabConsultorioMedico\obj\Debug\CadLabConsultorioMedico.dll
 C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CadLabConsultorioMedico\obj\Debug\CadLabConsultorioMedico.pdb
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CadLabConsultorioMedico\bin\Debug\CadLabConsultorioMedico.dll.config
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CadLabConsultorioMedico\bin\Debug\CadLabConsultorioMedico.dll
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CadLabConsultorioMedico\bin\Debug\CadLabConsultorioMedico.pdb
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CadLabConsultorioMedico\bin\Debug\EntityFramework.dll
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CadLabConsultorioMedico\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CadLabConsultorioMedico\bin\Debug\EntityFramework.xml
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CadLabConsultorioMedico\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CadLabConsultorioMedico\obj\Debug\CadLabConsultorioMedico.csproj.AssemblyReference.cache
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CadLabConsultorioMedico\obj\Debug\CadLabConsultorioMedico.csproj.CoreCompileInputs.cache
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CadLabConsultorioMedico\obj\Debug\CadLabConsultorioMedico.csproj.CopyComplete
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CadLabConsultorioMedico\obj\Debug\CadLabConsultorioMedico.dll
+D:\Bryan 2023\Info\Fundamentos de la programación- sis-457\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\CadLabConsultorioMedico\obj\Debug\CadLabConsultorioMedico.pdb
