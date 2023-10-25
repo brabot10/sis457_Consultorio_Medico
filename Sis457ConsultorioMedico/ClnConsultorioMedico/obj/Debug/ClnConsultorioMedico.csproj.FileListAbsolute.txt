@@ -1,0 +1,15 @@
+C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\ClnConsultorioMedico\bin\Debug\ClnConsultorioMedico.dll.config
+C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\ClnConsultorioMedico\bin\Debug\ClnConsultorioMedico.dll
+C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\ClnConsultorioMedico\bin\Debug\ClnConsultorioMedico.pdb
+C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\ClnConsultorioMedico\bin\Debug\CadLabConsultorioMedico.dll
+C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\ClnConsultorioMedico\bin\Debug\EntityFramework.dll
+C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\ClnConsultorioMedico\bin\Debug\EntityFramework.SqlServer.dll
+C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\ClnConsultorioMedico\bin\Debug\CadLabConsultorioMedico.pdb
+C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\ClnConsultorioMedico\bin\Debug\CadLabConsultorioMedico.dll.config
+C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\ClnConsultorioMedico\bin\Debug\EntityFramework.xml
+C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\ClnConsultorioMedico\bin\Debug\EntityFramework.SqlServer.xml
+C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\ClnConsultorioMedico\obj\Debug\ClnConsultorioMedico.csproj.AssemblyReference.cache
+C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\ClnConsultorioMedico\obj\Debug\ClnConsultorioMedico.csproj.CoreCompileInputs.cache
+C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\ClnConsultorioMedico\obj\Debug\ClnConsultorioMedico.csproj.CopyComplete
+C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\ClnConsultorioMedico\obj\Debug\ClnConsultorioMedico.dll
+C:\sis457_Consultorio_Medico - copia\Sis457ConsultorioMedico\ClnConsultorioMedico\obj\Debug\ClnConsultorioMedico.pdb

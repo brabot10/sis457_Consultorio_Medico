@@ -76,5 +76,18 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CadLabConsultorioMedico\CadLabConsultorioMedico.csproj">
+      <Project>{618a0989-4ba2-49b0-be56-fc4ce99c81c9}</Project>
+      <Name>CadLabConsultorioMedico</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ClnConsultorioMedico\ClnConsultorioMedico.csproj">
+      <Project>{6b71dc6b-c0ce-4250-865e-95326e00082c}</Project>
+      <Name>ClnConsultorioMedico</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
