@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CpConsultorioMedico", "CpCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadLabConsultorioMedico", "CadLabConsultorioMedico\CadLabConsultorioMedico.csproj", "{618A0989-4BA2-49B0-BE56-FC4CE99C81C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClnConsultorioMedico", "ClnConsultorioMedico\ClnConsultorioMedico.csproj", "{6B71DC6B-C0CE-4250-865E-95326E00082C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{618A0989-4BA2-49B0-BE56-FC4CE99C81C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{618A0989-4BA2-49B0-BE56-FC4CE99C81C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{618A0989-4BA2-49B0-BE56-FC4CE99C81C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B71DC6B-C0CE-4250-865E-95326E00082C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B71DC6B-C0CE-4250-865E-95326E00082C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B71DC6B-C0CE-4250-865E-95326E00082C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B71DC6B-C0CE-4250-865E-95326E00082C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
