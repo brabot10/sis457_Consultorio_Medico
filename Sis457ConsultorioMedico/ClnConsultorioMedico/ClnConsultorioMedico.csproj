@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CitaCln.cs" />
+    <Compile Include="MedicamentoCln.cs" />
     <Compile Include="PacientesCln.cs" />
     <Compile Include="PersonalCln.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
