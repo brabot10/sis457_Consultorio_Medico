@@ -103,41 +103,6 @@ AS
 EXEC paPersonalListar 'Juan';
 
 
-CREATE PROC paPacienteListar @parametro2 VARCHAR(50)
-AS
-  SELECT id, idPersonal, cedulaIdentidad, nombres, alergias, fechaNacimiento, celular, usuarioRegistro, fechaRegistro, estado
-  FROM Paciente
-  WHERE estado<>-1 AND nombres LIKE '%'+REPLACE(@parametro2,' ','%')+'%';
-  
-EXEC paPacienteListar 'María';
-
-
-CREATE PROC paCitaListar @parametro3 VARCHAR(50)
-AS
-  SELECT id, idPaciente, fecha, hora, tratamiento, pago, aCuenta, usuarioRegistro, fechaRegistro, estado
-  FROM Cita
-
-  WHERE estado<>-1 AND fecha LIKE '%'+REPLACE(@parametro3,' ','%')+'%';
-EXEC paCitaListar 'Arritmia cardiaca';
-
-
-CREATE PROC paHistorialListar @parametro4 VARCHAR(50)
-AS
-  SELECT id, idPaciente, diagnostico, observaciones, fecha, usuarioRegistro, fechaRegistro, estado
-  FROM Historial
-  WHERE estado<>-1 AND articulo LIKE '%'+REPLACE(@parametro4,' ','%')+'%';
-
-EXEC paHistorialListar 'Marcapaso';
-
-
-CREATE PROC paUsuarioListar @parametro VARCHAR(50)
-AS
-  SELECT id, idPersonal, usuario, clave, usuarioRegistro, fechaRegistro, estado
-  FROM Usuario
-  WHERE estado<>-1 AND usuario LIKE '%'+REPLACE(@parametro,' ','%')+'%';
-
-EXEC paUsuarioListar 'daniela';
-
 --DML
 
 INSERT INTO Personal (cedulaIdentidad, nombres, primerApellido, segundoApellido, direccion, celular, cargo)
@@ -158,7 +123,7 @@ VALUES ('daniela', '1234', 1),
 
 SELECT * FROM Usuario;
 
-PROCEDIMIENTOS ALTERADOS FUNCIONALES
+-- PROCEDIMIENTOS ALTERADOS FUNCIONALES
 CREATE PROC paCitaListar 
   @parametro3 VARCHAR(50)
 AS

@@ -45,7 +45,7 @@ namespace CpConsultorioCardiologia
         {
             if (validar())
             {
-                var usuario = UsuarioCln.validar(txtUsuario.Text, Util.Encrypt(txtClave.Text));
+                var usuario = UsuarioCln.validar(txtUsuario.Text, txtClave.Text);
                 if (usuario != null)
                 {
                     Util.usuario = usuario;
@@ -95,6 +95,19 @@ namespace CpConsultorioCardiologia
                 Left = Left + (e.X - posX);
                 Top = Top + (e.Y - posY);
             }
+        }
+
+        private void btnSalir_Click_1(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void btnIngresar_Click_1(object sender, EventArgs e)
+        {
+            FrmPaciente llamar = new FrmPaciente();
+            llamar.Show();
+            Size = new Size(776, 344);
+            this.Hide();
         }
     }
 }
